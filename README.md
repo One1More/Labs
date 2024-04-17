@@ -10,7 +10,9 @@ Java: также находится внутри папка со всеми ла
 Также по Java сделано первые 3 лабы;
 
 [Ссылка на описание всех лаб по С#](https://ronimizy.notion.site/Labs-ebf31349fa0a4c0d9328b198cfebed4e)
+
 [Ссылка на описание 1-ой лабы по Java](Java/README.md)
+
 [Ссылка на описание остальных лаб Java](https://gist.github.com/DianaNeumann/8ef03e192895c857656371f0e6818e62)
 
 
