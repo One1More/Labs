@@ -10,8 +10,31 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/banks-core" />
             <option value="$PROJECT_DIR$/banks-presentation" />
+            <option value="$PROJECT_DIR$/cats-CatsMicroservice" />
+            <option value="$PROJECT_DIR$/cats-CatsMicroservice/client" />
+            <option value="$PROJECT_DIR$/cats-CatsMicroservice/controller" />
+            <option value="$PROJECT_DIR$/cats-CatsMicroservice/dal" />
+            <option value="$PROJECT_DIR$/cats-CatsMicroservice/kafka" />
+            <option value="$PROJECT_DIR$/cats-CatsMicroservice/model" />
+            <option value="$PROJECT_DIR$/cats-CatsMicroservice/service" />
+            <option value="$PROJECT_DIR$/cats-OwnersMicroservice" />
+            <option value="$PROJECT_DIR$/cats-OwnersMicroservice/client" />
+            <option value="$PROJECT_DIR$/cats-OwnersMicroservice/controller" />
+            <option value="$PROJECT_DIR$/cats-OwnersMicroservice/dal" />
+            <option value="$PROJECT_DIR$/cats-OwnersMicroservice/kafka" />
+            <option value="$PROJECT_DIR$/cats-OwnersMicroservice/model" />
+            <option value="$PROJECT_DIR$/cats-OwnersMicroservice/ownersClient" />
+            <option value="$PROJECT_DIR$/cats-OwnersMicroservice/ownersModel" />
+            <option value="$PROJECT_DIR$/cats-OwnersMicroservice/service" />
+            <option value="$PROJECT_DIR$/cats-apiGateway" />
+            <option value="$PROJECT_DIR$/cats-apiGateway/controller" />
+            <option value="$PROJECT_DIR$/cats-apiGateway/kafka" />
+            <option value="$PROJECT_DIR$/cats-apiGateway/kafkaMessages" />
+            <option value="$PROJECT_DIR$/cats-apiGateway/security" />
+            <option value="$PROJECT_DIR$/cats-apiGateway/service" />
             <option value="$PROJECT_DIR$/cats-controller" />
             <option value="$PROJECT_DIR$/cats-dal" />
+            <option value="$PROJECT_DIR$/cats-security" />
             <option value="$PROJECT_DIR$/cats-service" />
           </set>
         </option>
