@@ -29,4 +29,6 @@ Java: также находится внутри папка со всеми ла
 1. Системы сборок Java.
 2. Средства работы с БД: JPA, JDBC, Hibernate.
 3. Spring MVC, Spring Boot.
-4. Также в следующих лабах будут применены: Spring Security, Spring API.
+4. Spring Sequrity
+5. Kafka
+6. Работа микросервисов
